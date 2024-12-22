@@ -47,5 +47,8 @@ The app uses **Firebase** for authentication and data storage, and provides a sm
   <tr>
     <td><img src="images/5.jpg" alt="Photo 1" width="200"/></td>
     <td><img src="images/6.jpg" alt="Photo 2" width="200"/></td>
+  </tr><tr>
+    <td><img src="images/7.jpg" alt="Photo 1" width="200"/></td>
+    <td><img src="images/8.jpg" alt="Photo 2" width="200"/></td>
   </tr>
 </table>
